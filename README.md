@@ -35,6 +35,12 @@
 
 ---
 
+### 📌 大學時期的作品
+- [🔗 2D橫向動作遊戲-畢業製作(遊戲介紹影片)](https://www.youtube.com/watch?v=ESM6PNo-TCg)
+- [🔗 2D橫向動作遊戲-畢業製作(GOOGLE雲端連結)](https://drive.google.com/drive/folders/0B913QqmGy9ubR0RHeFBINjU1LVU?resourcekey=0-wXB21P5bijqrhxtLYTgXjQ&usp=drive_link)
+- [🔗 2D橫向跑酷遊戲-實習製作(GOOGLE雲端連結)](https://drive.google.com/drive/folders/0B913QqmGy9ubblZTRHNPSUVDSFk?resourcekey=0-9fEeMzfmccCyvCUROir5Qg&usp=drive_link)
+---
+
 ##  聯絡方式
 -  Email：xcia48996530@gmail.com
 -  Phone :0912243537
