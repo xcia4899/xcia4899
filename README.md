@@ -24,7 +24,7 @@
 - HTML + SCSS 
 - Bootstrap 
 - 運用 GSAP 建立動畫效果
-- [🔗 查看](https://xcia4899.github.io/samphone/)
+- [🔗 查看](https://github.com/xcia4899/samphone.git)
 
 ---
 
