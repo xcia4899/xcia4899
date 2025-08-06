@@ -15,7 +15,7 @@
 - Vue 架構 + 動態資料渲染
 - RWD 響應式網頁設計
 - 加入購物車 / 數量調整 / localStorage 儲存
-- [🔗 查看程式碼](https://github.com/xcia4899/my-project-01)
+- [🔗 查看](https://xcia4899.github.io/my-project-01/)
 
 ---
 
@@ -24,7 +24,7 @@
 - HTML + SCSS 
 - Bootstrap 
 - 運用 GSAP 建立動畫效果
-- [🔗 查看程式碼](https://github.com/xcia4899/samphone)
+- [🔗 查看](https://xcia4899.github.io/samphone/)
 
 ---
 
