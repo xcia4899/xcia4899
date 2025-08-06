@@ -15,7 +15,7 @@
 - Vue 架構 + 動態資料渲染
 - RWD 響應式網頁設計
 - 加入購物車 / 數量調整 / localStorage 儲存
-- [🔗 查看](https://xcia4899.github.io/my-project-01/)
+- [🔗 查看](https://github.com/xcia4899/my-project-01.git)
 
 ---
 
@@ -31,7 +31,7 @@
 ### 📌 練習專案｜IPHONE碼表
 - HTML + SCSS 
 - 適合行動裝置操作
-- [🔗 查看程式碼](https://github.com/xcia4899/TimeLoop)
+- [🔗 查看](https://github.com/xcia4899/TimeLoop)
 
 ---
 
