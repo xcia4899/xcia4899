@@ -28,18 +28,19 @@
 
 ---
 
+### 📌 練習專案｜代辦清單
+- vite + vue3 元件化
+- 適合行動裝置操作
+- [🔗 查看](https://xcia4899.github.io/todolist-component/)
+
+---
+
 ### 📌 練習專案｜IPHONE碼表
 - HTML + SCSS 
 - 適合行動裝置操作
 - [🔗 查看](https://github.com/xcia4899/TimeLoop)
 
 ---
-### 📌 練習專案｜代辦清單
-- vite + vue3 元件化
-- 適合行動裝置操作
-- [🔗 查看](https://xcia4899.github.io/todolist-component/)
-
-
 
 ### 📌 大學時期的作品
 - [🔗 2D橫向動作遊戲-畢業製作(遊戲介紹影片)](https://www.youtube.com/watch?v=ESM6PNo-TCg)
