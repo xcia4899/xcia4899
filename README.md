@@ -3,9 +3,9 @@
 我是一位具有設計背景與維修實務經驗的前端學習者，擅長將 UI 視覺與程式邏輯結合，持續透過自學與實作累積技術能力，目標成為一位能獨立製作、理解使用者體驗的前端工程師。
 
 ## 🔧 技術技能
-- 前端技術：HTML5、PUG 、CSS3、SCSS、SASS、JavaScript、Vue3、RWD、LocalStorage、模組化開發
+- 前端技術：HTML5、PUG 、CSS3、SCSS、SASS、JavaScript、RWD、LocalStorage、、Vue3、、TypeScript、Router、Pinia、模組化
 - 設計工具：Figma、Photoshop、Illustrator
-- 開發工具：VS Code、Git、Chrome、ChatGpt、Cursor
+- 開發工具：VS Code、Git、Chrome、ChatGpt
 - 整合能力：設計轉前端流程、跨瀏覽器相容性、功能整合與除錯、可維護的樣式架構規劃
 
 
