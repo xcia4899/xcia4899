@@ -15,7 +15,7 @@
 - Vue 架構 + 動態資料渲染
 - RWD 響應式網頁設計
 - 加入購物車 / 數量調整 / localStorage 儲存
-- [🔗 查看](https://github.com/xcia4899/my-project-01.git)
+- [🔗 查看](https://xcia4899.github.io/Horizon_MPA/)
 
 ---
 
