@@ -8,18 +8,36 @@
 - 開發工具：VS Code、Git、Chrome、ChatGpt
 - 整合能力：設計轉前端流程、跨瀏覽器相容性、功能整合與除錯、可維護的樣式架構規劃
 
-
 ## 🚀 作品展示（持續更新中）
 
-### 📌 響應式商品展示頁
-- Vue 架構 + 動態資料渲染
-- RWD 響應式網頁設計
-- 加入購物車 / 數量調整 / localStorage 儲存
-- [🔗 查看](https://xcia4899.github.io/Horizon_MPA/)
+### 📌 Horizon 電商網站專案
 
+- 本專案為電商前端網站的 學習與實作作品集，由舊版多頁式網站逐步重構為現代化的 Nuxt 架構，著重於 元件化設計、狀態管理與實務開發流程。
+  
+### [🔗 HorizonV2](https://xcia4899.github.io/Horizon-V2/)（新版｜Nuxt 重構版）
+- **專案定位**：舊版 Horizon 電商網站的重構升級版本，採用 Nuxt 4 與 Vue 3 架構，導入狀態管理與 API 串接，提升專案結構的可維護性與擴充性  
+- **技術架構**：Nuxt 4（Vue 3）、Pinia、RESTful API、TypeScript
+- **版型設計**：RWD 響應式網頁設計（支援桌機 / 平板 / 行動裝置）  
+- **功能實作**
+  - 商品列表與商品詳細頁（動態路由）
+  - 購物車功能（加入、數量調整、金額計算）
+  - 狀態集中管理（Pinia）
+  - 會員登入狀態與資料儲存（localStorage）
+  - API 設計與資料串接（前後端分離） 
+
+### [🔗 Horizon](https://xcia4899.github.io/Horizon_MPA/)（舊版｜商品展示練習）
+- **專案定位**：前端切版與互動功能練習專案，採用 Vue 2 CDN 架構，著重於畫面呈現與基礎購物車邏輯實作  
+- **技術架構**：Vue 2（CDN）、HTML / CSS / JavaScript、傳統多頁式（MPA）  
+- **版型設計**：RWD 響應式網頁設計（支援桌機 / 行動裝置）  
+- **功能實作**
+  - 商品展示頁
+  - 購物車加入與移除
+  - 商品數量調整
+  - 購物車資料 localStorage 儲存  
+ 
 ---
 
-### 📌 單頁式動態形象網站
+### 📌 動態形象網站
 - Vue 架構 
 - HTML + SCSS 
 - Bootstrap 
