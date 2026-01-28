@@ -12,7 +12,7 @@
 
 - 本專案為電商前端網站的 學習與實作作品集，由舊版多頁式網站逐步重構為現代化的 Nuxt 架構，著重於 元件化設計、狀態管理與實務開發流程。
   
-### [🔗 HorizonV2](https://xcia4899.github.io/Horizon-V2/)（新版｜Nuxt 重構版）
+### [🔗 HorizonV2](https://xcia4899.github.io/Horizon-V2/)（新版｜Nuxt 重構版）製作中
 - **專案定位**：舊版 Horizon 電商網站的重構升級版本，採用 Nuxt 4 與 Vue 3 架構，導入狀態管理與 API 串接，提升專案結構的可維護性與擴充性  
 - **技術架構**：Nuxt 4（Vue 3）、Pinia、RESTful API、TypeScript
 - **版型設計**：RWD 響應式網頁設計（支援桌機 / 平板 / 行動裝置）  
@@ -57,6 +57,16 @@
 - Element Plus 建立表單與驗證流程
 - TypeScript 提供靜態型別檢查
 - [🔗 查看](https://xcia4899.github.io/Login-practive02/Home)
+
+---
+
+### 📌 楓之谷風格 Vue Router 練習專案
+- 本專案為以 Vue 3 製作的技能分配模擬器介面，結合 Vue Router 與 Pinia 管理畫面狀態
+- 技能階段切換介面
+- 即時點數顯示與回饋
+- 加點／減點／重置操作
+- 動態路由呈現不同階段畫面
+- [🔗 查看](https://github.com/xcia4899/maplestory-skil/tree/main)
 
 ---
 
