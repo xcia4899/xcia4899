@@ -14,9 +14,9 @@
   
 ### [🔗 Horizon](https://xcia4899.github.io/Horizon_MPA/)（舊版｜商品展示練習）
 - **專案定位**：前端切版與互動功能練習專案，採用 Vue 2 CDN 架構，著重於畫面呈現與基礎購物車邏輯實作  
-- **技術架構**：Vue 2（CDN）、HTML / CSS / JavaScript、傳統多頁式（MPA）  
-- **介面設計**：RWD 響應式網頁設計（支援桌機 / 行動裝置）  
+- **技術架構**：Vue 2（CDN）、HTML / CSS / JavaScript、傳統多頁式（MPA）   
 - **功能實作**
+  - RWD 響應式網頁設計（支援桌機 / 行動裝置） 
   - 商品展示頁
   - 購物車加入與移除
   - 商品數量調整
@@ -25,12 +25,13 @@
 ### [🔗 HorizonV2](https://xcia4899.github.io/Horizon-V2/)（新版｜Nuxt 重構版）製作中
 - **專案定位**：舊版 Horizon 電商網站的重構升級版本，採用 Nuxt 4 與 Vue 3 架構，導入狀態管理與 API 串接，提升專案結構的可維護性與擴充性  
 - **技術架構**：Nuxt 4（Vue 3）、Pinia、RESTful API、TypeScript
-- **介面設計**：RWD 響應式網頁設計、淺深色模式（支援桌機 / 行動裝置）  
 - **功能實作**
+  - RWD 響應式網頁設計
+  - 淺深色模式（支援桌機 / 行動裝置） 
   - 商品列表與商品詳細頁（動態路由）
-  - 購物車功能（加入、數量調整、金額計算）
+  - 購物車功能（RESTful API）
   - 狀態集中管理（Pinia）
-  - 會員登入狀態與資料儲存（localStorage）
+  - 會員登入狀態與資料儲存（localStorage、RESTful API）
   - API 設計與資料串接（前後端分離）
     
 ---
