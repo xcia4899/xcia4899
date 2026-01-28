@@ -1,7 +1,3 @@
-# 👋 Hi，我是 xcia4899
-
-我是一位具有設計背景與維修實務經驗的前端學習者，擅長將 UI 視覺與程式邏輯結合，持續透過自學與實作累積技術能力，目標成為一位能獨立製作、理解使用者體驗的前端工程師。
-
 ## 🔧 技術技能
 - 前端技術：HTML5、PUG 、CSS3、SCSS、SASS、JavaScript、RWD、LocalStorage、、Vue3、、TypeScript、Router、Pinia、模組化
 - 設計工具：Figma、Photoshop、Illustrator
@@ -46,17 +42,26 @@
 
 ---
 
+### 📌 分類內容專案 | Nuxt 3 | Vant 4
+- Nuxt 3 為核心框架，搭配 Vant 4 UI 元件庫
+- Tabs 切換與 URL 路由狀態同步
+- 採用 pages router 管理路由結構
+- [🔗 查看](https://xcia4899.github.io/my-nuxt-app/)
+
+---
+
+### 📌 會員登入系統 | 前端API串接與表單驗證專案
+- Axios RESTful API 呼叫，依 Swagger UI 規格進行 API 串接
+- Element Plus 建立表單與驗證流程
+- TypeScript 提供靜態型別檢查
+- [🔗 查看](https://xcia4899.github.io/Login-practive02/Home)
+
+---
+
 ### 📌 練習專案｜代辦清單
 - vite + vue3 元件化
 - 適合行動裝置操作
 - [🔗 查看](https://xcia4899.github.io/todolist-component/)
-
----
-
-### 📌 練習專案｜IPHONE碼表
-- HTML + SCSS 
-- 適合行動裝置操作
-- [🔗 查看](https://github.com/xcia4899/TimeLoop)
 
 ---
 
