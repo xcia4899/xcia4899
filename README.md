@@ -3,8 +3,8 @@
 - 前端技術：HTML、CSS、JavaScript、TypeScript、RWD、SCSS/SASS、Vue 3、Vue Router、Pinia、Axios、Nuxt、RESTful API、Swagger（API 文件閱讀與串接）
 - UI / UX：Element Plus、Vant、Tailwind CSS
 - 設計工具：Figma、Photoshop、Illustrator
-- 開發工具：VS Code、Git、Chrome、ChatGpt
-- 整合能力：設計轉前端流程、跨瀏覽器相容性、功能整合與除錯、可維護的樣式架構規劃
+- 開發工具：VS Code、Git、Chrome DevTools、GitHub Copilot、ChatGPT
+- 設計轉前端流程、功能整合與除錯、可維護的樣式架構規劃，並善用 AI 工具與跨角色溝通。
 
 ## 🚀 作品展示（持續更新中）
 
