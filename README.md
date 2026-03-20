@@ -11,16 +11,7 @@
 ### 📌 Horizon 電商網站專案
 
 - Horizon 為一個電商前端實作專案，從 傳統多頁式網站 出發，逐步重構為 Nuxt 架構，著重於元件化設計、狀態管理與實務開發流程。。
-  
-### [🔗 Horizon](https://xcia4899.github.io/Horizon_MPA/)（舊版｜商品展示練習）
-- **專案定位**：前端切版與互動功能練習  
-- **技術架構**：Vue 2（CDN）、HTML、CSS、JavaScript、MPA
-- **功能實作**
-  - RWD 響應式網頁設計（支援桌機 / 行動裝置） 
-  - 商品展示頁
-  - 購物車加入、移除與數量調整
-  - 購物車資料 localStorage 儲存
-    
+
 ### [🔗 HorizonV2](https://xcia4899.github.io/Horizon-V2/)（新版｜Nuxt 重構版｜製作中）
 - **專案定位**：舊版 Horizon 的重構升級版本，導入現代化前端架構與資料管理
 - **技術架構**：Nuxt 4（Vue 3）、Pinia、TypeScript、RESTful API
@@ -30,8 +21,17 @@
   - 商品列表與商品詳細頁（動態路由）
   - 購物車功能（localStorage）
   - 狀態集中管理（Pinia）
-  - 會員登入狀態與資料儲存（localStorage／API）
-  - 前後端分離的 API 設計與資料串接
+  - 會員登入狀態與資料儲存（localStorage／API）(進行中)
+  - 前後端分離的 API 設計與資料串接 (進行中)
+  
+### [🔗 Horizon](https://xcia4899.github.io/Horizon_MPA/)（舊版｜商品展示練習）
+- **專案定位**：前端切版與互動功能練習  
+- **技術架構**：Vue 2（CDN）、HTML、CSS、JavaScript、MPA
+- **功能實作**
+  - RWD 響應式網頁設計（支援桌機 / 行動裝置） 
+  - 商品展示頁
+  - 購物車加入、移除與數量調整
+  - 購物車資料 localStorage 儲存
     
 ---
 
