@@ -99,7 +99,7 @@
   - 加點 / 減點 / 重置邏輯  
   - 動態路由切換不同階段  
 
-- [🔗 查看](https://github.com/xcia4899/maplestory-skil/tree/main)
+- [🔗 查看](https://xcia4899.github.io/maplestory-skil/)
 
 ---
 
