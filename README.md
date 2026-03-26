@@ -1,4 +1,6 @@
 
+###用精密工業的嚴謹，打造像素級完美的 Web 體驗。
+
 ## 🔧 技術技能
 - 前端技術：HTML、CSS、JavaScript、TypeScript、RWD、SCSS/SASS、Vue 3、Vue Router、Pinia、Axios、Nuxt、RESTful API、Swagger（API 文件閱讀與串接）
 - UI / UX：Element Plus、Vant、Tailwind CSS
