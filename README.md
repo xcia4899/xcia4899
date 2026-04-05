@@ -23,7 +23,7 @@
 
 由既有多頁式電商網站出發，重構為現代化前端架構，導入 Nuxt、狀態管理與 API 串接流程，建立具備實務開發流程的電商應用。
 
-### [🔗 Horizon V2](https://xcia4899.github.io/Horizon-V2/)（新版｜Nuxt 重構｜開發中）
+### [🔗 Horizon V2](https://horizon-v3.vercel.app/)（新版｜Nuxt 重構｜開發中）
 
 - **技術**：Nuxt（Vue 3）、Pinia、TypeScript、RESTful API  
 - **核心實作**
