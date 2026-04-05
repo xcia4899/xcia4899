@@ -31,9 +31,9 @@
   - 導入 Pinia 進行狀態管理，統一購物車與使用者狀態  
   - 建立商品列表與商品頁（動態路由）  
   - 實作購物車功能（localStorage）  
-  - 串接 API 建立資料流（進行中）  
+  - 串接 API 建立資料流 
   - 建立會員登入與狀態管理（進行中）
-[🔗 HorizonV2 靜態](https://xcia4899.github.io/Horizon-V2/)
+  - [🔗 HorizonV2 靜態](https://xcia4899.github.io/Horizon-V2/)
 
 ---
 
