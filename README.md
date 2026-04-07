@@ -32,7 +32,12 @@
   - 建立商品列表與商品頁（動態路由）  
   - 實作購物車功能（localStorage）  
   - 串接 API 建立資料流 
-  - 建立會員登入與狀態管理（進行中）
+  - 建立會員登入與狀態管理
+  - 
+  - admin帳號:horizon@aaa.com
+  - 密碼:00000000
+  - 可自行註冊新帳號
+
   - [🔗 HorizonV2 靜態](https://xcia4899.github.io/Horizon-V2/)
 
 ---
