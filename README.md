@@ -81,17 +81,8 @@
 
 ---
 
-### 📌 會員登入系統（API 串接）
-
-建立完整登入與表單驗證流程，實作前端 API 串接與資料處理。
-
-- **技術**：Vue 3、TypeScript、Axios、Element Plus  
-- **核心實作**
-  - 根據 Swagger 文件串接 API  
-  - 建立登入與註冊流程  
-  - 表單驗證與錯誤處理  
-
-- [🔗 查看](https://xcia4899.github.io/Login-practive02/Home)
+### 個人切版網頁
+- [🔗 中証企業](https://xcia4899.github.io/chnglass/)
 
 ---
 
@@ -111,8 +102,8 @@
 
 ### 📌 其他練習專案
 
-- [🔗 代辦清單](https://xcia4899.github.io/todolist-component/)（Vue 3 / 元件化）  
-
+- [🔗 代辦清單 （Vue 3 / 元件化）](https://xcia4899.github.io/todolist-component/)
+- [🔗 會員登入系統（API 串接）](https://xcia4899.github.io/Login-practive02/Home)
 ---
 
 ### 📌 大學作品
