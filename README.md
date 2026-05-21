@@ -38,11 +38,11 @@
   - 密碼:00000000
   - 可自行註冊新帳號
 
-  - [🔗 HorizonV2 靜態](https://xcia4899.github.io/Horizon-V2/)
+  - [🔗 HorizonV2 靜態] (https://xcia4899.github.io/Horizon-V2/)
 
 ---
 
-### [🔗 Horizon（舊版）](https://xcia4899.github.io/Horizon_MPA/)
+### [🔗 Horizon（舊版）] (https://xcia4899.github.io/Horizon_MPA/)
 
 - **技術**：Vue 2（CDN）、HTML、CSS、JavaScript  
 - **內容**
@@ -63,7 +63,7 @@
   - 使用 Swiper 建立視覺切換效果  
   - 優化 RWD，提升手機瀏覽體驗  
 
-- [🔗 查看](https://xcia4899.github.io/samphone-vue3/)
+- [🔗 查看] (https://xcia4899.github.io/samphone-vue3/)
 
 ---
 
@@ -77,12 +77,12 @@
   - 使用 pages router 管理路由  
   - 優化行動裝置操作體驗  
 
-- [🔗 查看](https://xcia4899.github.io/my-nuxt-app/)
+- [🔗 查看] (https://xcia4899.github.io/my-nuxt-app/)
 
 ---
 
 ### 個人切版網頁
-- [🔗 中証企業](https://xcia4899.github.io/chnglass/)
+- [🔗 中証企業] (https://xcia4899.github.io/chnglass/)
 
 ---
 
@@ -96,20 +96,20 @@
   - 加點 / 減點 / 重置邏輯  
   - 動態路由切換不同階段  
 
-- [🔗 查看](https://xcia4899.github.io/maplestory-skil/)
+- [🔗 查看] (https://xcia4899.github.io/maplestory-skil/)
 
 ---
 
 ### 📌 其他練習專案
 
-- [🔗 代辦清單 （Vue 3 / 元件化）](https://xcia4899.github.io/todolist-component/)
-- [🔗 會員登入系統（API 串接）](https://xcia4899.github.io/Login-practive02/Home)
+- [🔗 代辦清單 （Vue 3 / 元件化）] (https://xcia4899.github.io/todolist-component/)
+- [🔗 會員登入系統（API 串接）] (https://xcia4899.github.io/Login-practive02/Home)
 ---
 
 ### 📌 大學作品
 
-- [🔗 2D 動作遊戲（畢業專題）](https://www.youtube.com/watch?v=ESM6PNo-TCg)  
-- [🔗 專題資料](https://drive.google.com/drive/folders/0B913QqmGy9ubR0RHeFBINjU1LVU?usp=drive_link)
+- [🔗 2D 動作遊戲（畢業專題）] (https://www.youtube.com/watch?v=ESM6PNo-TCg)  
+- [🔗 專題資料] (https://drive.google.com/drive/folders/0B913QqmGy9ubR0RHeFBINjU1LVU?usp=drive_link)
 
 ---
 
