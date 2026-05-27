@@ -6,7 +6,7 @@
 ## 🔧 技術技能
 
 - **前端技術**：HTML、CSS、JavaScript、TypeScript、SCSS、RWD、Vue 3、Vue Router、Pinia、Axios、Nuxt  
-- **API / 資料串接**：RESTful API、Swagger（API 文件閱讀與串接）  
+- **API / 資料串接**：RESTful API、Swagger 
 - **UI / UX**：Element Plus、Vant、Tailwind CSS  
 - **設計工具**：Figma、Photoshop、Illustrator  
 - **開發工具**：VS Code、Git、Chrome DevTools、GitHub Copilot、ChatGPT  
@@ -23,7 +23,7 @@
 
 由既有多頁式電商網站出發，重構為現代化前端架構，導入 Nuxt、狀態管理與 API 串接流程，建立具備實務開發流程的電商應用。
 
-### [🔗 Horizon V2](https://horizon-v3.vercel.app/)（新版｜Nuxt 重構｜開發中）
+### [🔗 Horizon V2](https://horizon-v3.vercel.app/)（新版｜Nuxt 重構）
 
 - **技術**：Nuxt（Vue 3）、Pinia、TypeScript、RESTful API  
 - **核心實作**
@@ -37,9 +37,6 @@
   - admin帳號:horizon@aaa.com
   - 密碼:00000000
   - 可自行註冊新帳號
-
-  - [🔗 HorizonV2 靜態] (https://xcia4899.github.io/Horizon-V2/)
-
 ---
 
 ### [🔗 Horizon（舊版）] (https://xcia4899.github.io/Horizon_MPA/)
@@ -67,46 +64,21 @@
 
 ---
 
-### 📌 手機內容瀏覽系統（Nuxt 3）
-
-以行動裝置為主的內容瀏覽介面，強調操作流暢度與路由同步。
-
-- **技術**：Nuxt 3、Vant  
-- **核心實作**
-  - Tabs 切換並同步 URL 狀態  
-  - 使用 pages router 管理路由  
-  - 優化行動裝置操作體驗  
-
-- [🔗 查看] (https://xcia4899.github.io/my-nuxt-app/)
-
----
-
-### 個人切版網頁
+###  個人切版網頁
+- [🔗 HorizonV2 靜態] (https://xcia4899.github.io/Horizon-V2/)
 - [🔗 中証企業] (https://xcia4899.github.io/chnglass/)
 
 ---
 
-### 📌 技能配置模擬器（Vue 3）
-
-以互動邏輯為核心的模擬器專案，練習狀態管理與流程設計。
-
-- **技術**：Vue 3、Vue Router、Pinia  
-- **核心實作**
-  - 技能點數即時計算  
-  - 加點 / 減點 / 重置邏輯  
-  - 動態路由切換不同階段  
-
-- [🔗 查看] (https://xcia4899.github.io/maplestory-skil/)
-
----
-
-### 📌 其他練習專案
+###  練習專案
 
 - [🔗 代辦清單 （Vue 3 / 元件化）] (https://xcia4899.github.io/todolist-component/)
 - [🔗 會員登入系統（API 串接）] (https://xcia4899.github.io/Login-practive02/Home)
+- [🔗 技能配置模擬器（Vue 3）] (https://xcia4899.github.io/maplestory-skil/)
+- [🔗 手機內容瀏覽系統（Nuxt 3 + vant3）] (https://xcia4899.github.io/my-nuxt-app/)
 ---
 
-### 📌 大學作品
+###  大學作品
 
 - [🔗 2D 動作遊戲（畢業專題）] (https://www.youtube.com/watch?v=ESM6PNo-TCg)  
 - [🔗 專題資料] (https://drive.google.com/drive/folders/0B913QqmGy9ubR0RHeFBINjU1LVU?usp=drive_link)
