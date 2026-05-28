@@ -37,7 +37,7 @@
   - admin帳號:horizon@aaa.com
   - 密碼:00000000
   - 可自行註冊新帳號
----
+--
 
 ### [🔗 Horizon（舊版）] (https://xcia4899.github.io/Horizon_MPA/)
 
@@ -45,8 +45,9 @@
 - **內容**
   - 商品展示與購物流程  
   - 購物車功能（localStorage）  
-  - RWD 響應式設計  
-
+  - RWD 響應式設計
+  - 
+- [🔗 figma] (figma.com/design/mwJNAF2pkfuIbFrzrVBXRr/project-final?t=rV4ZmD7XNfL3Adex-0)
 ---
 
 ### 📌 samphone 形象網站（UIUX 改版）
@@ -59,7 +60,7 @@
   - 使用 GSAP 建立滾動互動動畫  
   - 使用 Swiper 建立視覺切換效果  
   - 優化 RWD，提升手機瀏覽體驗  
-
+- [🔗 figma] (https://www.figma.com/design/kNqDfu8t2kE8XyfbK1GZFY/Untitled?node-id=52-28&t=hFoR1bnLTjYL84qE-0)
 - [🔗 查看] (https://xcia4899.github.io/samphone-vue3/)
 
 ---
