@@ -67,7 +67,8 @@
 
 ###  個人切版網頁
 - [🔗 HorizonV2 靜態] (https://xcia4899.github.io/Horizon-V2/)
-- [🔗 中証企業] (https://xcia4899.github.io/chnglass/)
+- [🔗 中証企業  | 切版練習] (https://xcia4899.github.io/chnglass/)
+- [🔗 樂誌藝術工作訪 | 切版練習] (https://xcia4899.github.io/lewillartstudio/)
 
 ---
 
