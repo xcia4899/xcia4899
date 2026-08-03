@@ -130,53 +130,14 @@ HTML • CSS • JavaScript • Bootstrap
 
 ## Practice Projects
 
-### [Todo List](https://xcia4899.github.io/todolist-component/) ｜ [GitHub](https://github.com/xcia4899/todolist-component)
+### [Todo List](https://xcia4899.github.io/todolist-component/) ｜ [GitHub](https://github.com/xcia4899/todolist-component) —   Vue 元件拆分與 CRUD 練習。
+### [Login & API Practice](https://xcia4899.github.io/Login-practive02/Home) ｜ [GitHub](https://github.com/xcia4899/Login-practive02) —   RESTful API、登入流程、Router Guard 與 CRUD 練習。
+### [MapleStory Skill Simulator](https://xcia4899.github.io/maplestory-skil/) ｜ [GitHub](https://github.com/xcia4899/maplestory-skil) —  技能配置模擬器，練習 Pinia 狀態管理與 Vue Router。
+### [Mobile UI Demo](https://xcia4899.github.io/my-nuxt-app/) ｜ [GitHub](https://github.com/xcia4899/my-nuxt-app) —  以 Nuxt 與 Vant 製作的行動裝置介面展示。
+### [Lottery Simulator](https://xcia4899.github.io/slotgame/) ｜ [GitHub](https://github.com/xcia4899/slotgame) —  抽獎模擬器，練習 DOM 操作、陣列處理與隨機演算法。
 
-Vue 元件拆分與 CRUD 練習。
-
-**Tech**
-Vue 3
-
----
-
-### [Login & API Practice](https://xcia4899.github.io/Login-practive02/Home) ｜ [GitHub](https://github.com/xcia4899/Login-practive02)
-
-RESTful API、登入流程、Router Guard 與 CRUD 練習。
-
-**Tech**
-Vue 3 • TypeScript • Axios
-
----
-
-### [MapleStory Skill Simulator](https://xcia4899.github.io/maplestory-skil/) ｜ [GitHub](https://github.com/xcia4899/maplestory-skil)
-
-技能配置模擬器，練習 Pinia 狀態管理與 Vue Router。
-
-**Tech**
-Vue 3 • TypeScript • Pinia
-
----
-
-### [Mobile UI Demo](https://xcia4899.github.io/my-nuxt-app/) ｜ [GitHub](https://github.com/xcia4899/my-nuxt-app)
-
-以 Nuxt 與 Vant 製作的行動裝置介面展示。
-
-**Tech**
-Nuxt • Vant
-
----
-
-### [Lottery Simulator](https://xcia4899.github.io/slotgame/) ｜ [GitHub](https://github.com/xcia4899/slotgame)
-
-抽獎模擬器，練習 DOM 操作、陣列處理與隨機演算法。
-
-**Tech**
-HTML • CSS • JavaScript
-
----
 
 ## University Project
-
 ### [2D Action Game](https://www.youtube.com/watch?v=ESM6PNo-TCg)
 
 大學畢業專題，負責遊戲企劃、互動程式設計與專案製作，使用 ActionScript 3 開發，累積跨領域合作與專案管理經驗。
